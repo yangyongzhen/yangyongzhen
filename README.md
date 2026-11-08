@@ -4,6 +4,8 @@
 
 🧩 **Cangjie tooling & open source** · 🔨 building developer tools in Huawei's [Cangjie](https://cangjie-lang.cn) language · 📅 on GitHub since 2014
 
+**English** · [中文](https://github.com/yangyongzhen/yangyongzhen/blob/main/README.zh-CN.md)
+
 ![Cangjie](https://img.shields.io/badge/-Cangjie-0761D1?style=flat-square&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
